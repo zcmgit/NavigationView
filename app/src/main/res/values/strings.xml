@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationViewTest</string>
+
+    <string name="navigation_1">test1</string>
+    <string name="navigation_2">test2</string>
+    <string name="navigation_3">test3</string>
+    <string name="navigation_4">test4</string>
+
+    <string name="navigation_5">test5</string>
+    <string name="navigation_6">test6</string>
+    
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>
